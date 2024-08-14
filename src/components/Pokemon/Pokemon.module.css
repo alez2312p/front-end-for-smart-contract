@@ -1,0 +1,25 @@
+.pokemon {
+  text-align: center;
+  margin-top: 20px;
+  flex: 0 0 30%;
+}
+
+.pokemon img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 2px solid #333;
+}
+
+.pokemon ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.pokemon li {
+  background-color: #f1f1f1;
+  color: #333;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
